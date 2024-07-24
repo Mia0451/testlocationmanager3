@@ -1,8 +1,6 @@
 package com.example.testlocationmanager3;
 
-
 import static org.junit.Assert.assertNotNull;
-import static org.robolectric.Shadows.shadowOf;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
